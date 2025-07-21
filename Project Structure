@@ -1,0 +1,27 @@
+Ecommerce-Recommendation-System/
+│
+├── README.md
+├── requirements.txt
+├── main.py
+├── config_example.yaml
+│
+├── data/
+│   ├── customers.csv
+│   ├── products.csv
+│   └── transactions.csv
+│
+├── database/
+│   ├── create_db.py
+│   └── insert_data.py
+│
+├── models/
+│   ├── collaborative_filtering.py
+│   ├── content_based.py
+│   └── hybrid_model.py
+│
+├── utils/
+│   ├── data_preprocessing.py
+│   └── evaluation.py
+│
+└── dashboard/
+    └── app.py
