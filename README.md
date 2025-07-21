@@ -16,5 +16,5 @@ A hybrid recommendation system built with **Python**, **SQL**, **Pandas**, **Sci
 git clone https://github.com/<gopikrishna2000426>/ecommerce_recommender.git
 cd ecommerce_recommender
 python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+source .venv/bin/activate  
 pip install -r requirements.txt
